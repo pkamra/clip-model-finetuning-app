@@ -1,0 +1,6 @@
+ftfy
+regex
+tqdm
+torchvision==0.15.1
+transformers==4.34.1
+openai-clip==1.0.1

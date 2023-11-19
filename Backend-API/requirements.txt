@@ -1,0 +1,11 @@
+Flask==3.0.0
+torch==2.0
+openai-clip==1.0.1
+torchvision==0.15.1
+transformers==4.34.1
+sagemaker==2.192.0
+opensearch-py==2.3.2
+boto3==1.28.63
+flask-cors==4.0.0
+
+
